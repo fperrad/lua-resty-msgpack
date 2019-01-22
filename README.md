@@ -1,7 +1,7 @@
 # lua-resty-msgpack
 Lua messagepack for ngx_lua/stream_lua/OpenResty
 
-This is an opm wrapper for [lua-MessagePack](https://github.com/fperrad/lua-MessagePack.git)(But it is broken now)
+This is an opm wrapper for [lua-MessagePack](https://framagit.org/fperrad/lua-MessagePack).
 
 Another choice is [luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure), but it has a different API.
 
